@@ -3,6 +3,10 @@
 This project is a replica of the Refokus website built using **React**. 
 The clone incorporates smooth scrolling and animation effects to closely mimic the original site.
 
+## Live Website
+
+Explore Refokus-Clone live: [ Refokus-Clone Live](https://refokus-website-clone-eight.vercel.app/)
+
 ## Features
 - **React**: Website structure and styling.
 - **Motion UI**: Adds dynamic effects.
@@ -17,9 +21,6 @@ The clone incorporates smooth scrolling and animation effects to closely mimic t
 
 ![](https://github.com/user-attachments/assets/6eb5e5d0-711d-4f5c-9c35-09fb7d722f9f)
 
-## Live Website
-
-Explore Refokus-Clone live: [ Refokus-Clone Live](https://refokus-website-clone-eight.vercel.app/)
 
 ## Contribution
 
